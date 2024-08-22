@@ -1,0 +1,133 @@
+[2024-08-22T16:48:12.568+0500] {processor.py:186} INFO - Started process (PID=3810) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-08-22T16:48:12.569+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py for tasks to queue
+[2024-08-22T16:48:12.571+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:48:12.571+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-08-22T16:48:12.586+0500] {processor.py:925} INFO - DAG(s) 'example_bash_decorator' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-08-22T16:48:12.669+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:48:12.669+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:48:12.679+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:48:12.678+0500] {dag.py:4138} INFO - Setting next_dagrun for example_bash_decorator to None, run_after=None
+[2024-08-22T16:48:12.710+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py took 0.149 seconds
+[2024-08-22T16:49:10.785+0500] {processor.py:186} INFO - Started process (PID=4119) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-08-22T16:49:10.798+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py for tasks to queue
+[2024-08-22T16:49:10.802+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:49:10.802+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-08-22T16:49:10.823+0500] {processor.py:925} INFO - DAG(s) 'example_bash_decorator' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-08-22T16:49:10.841+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:49:10.841+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:49:10.853+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:49:10.853+0500] {dag.py:4138} INFO - Setting next_dagrun for example_bash_decorator to None, run_after=None
+[2024-08-22T16:49:10.874+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py took 0.098 seconds
+[2024-08-22T16:50:09.888+0500] {processor.py:186} INFO - Started process (PID=4406) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-08-22T16:50:09.891+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py for tasks to queue
+[2024-08-22T16:50:09.893+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:50:09.893+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-08-22T16:50:09.909+0500] {processor.py:925} INFO - DAG(s) 'example_bash_decorator' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-08-22T16:50:09.928+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:50:09.928+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:50:09.939+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:50:09.939+0500] {dag.py:4138} INFO - Setting next_dagrun for example_bash_decorator to None, run_after=None
+[2024-08-22T16:50:09.961+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py took 0.080 seconds
+[2024-08-22T16:51:06.811+0500] {processor.py:186} INFO - Started process (PID=4683) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-08-22T16:51:06.823+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py for tasks to queue
+[2024-08-22T16:51:06.826+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:51:06.826+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-08-22T16:51:06.845+0500] {processor.py:925} INFO - DAG(s) 'example_bash_decorator' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-08-22T16:51:06.864+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:51:06.863+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:51:06.876+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:51:06.875+0500] {dag.py:4138} INFO - Setting next_dagrun for example_bash_decorator to None, run_after=None
+[2024-08-22T16:51:06.896+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py took 0.095 seconds
+[2024-08-22T16:52:05.530+0500] {processor.py:186} INFO - Started process (PID=4965) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-08-22T16:52:05.543+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py for tasks to queue
+[2024-08-22T16:52:05.546+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:52:05.545+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-08-22T16:52:05.563+0500] {processor.py:925} INFO - DAG(s) 'example_bash_decorator' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-08-22T16:52:05.584+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:52:05.584+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:52:05.598+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:52:05.597+0500] {dag.py:4138} INFO - Setting next_dagrun for example_bash_decorator to None, run_after=None
+[2024-08-22T16:52:05.618+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py took 0.098 seconds
+[2024-08-22T16:53:09.423+0500] {processor.py:186} INFO - Started process (PID=5270) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-08-22T16:53:09.435+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py for tasks to queue
+[2024-08-22T16:53:09.438+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:53:09.438+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-08-22T16:53:09.457+0500] {processor.py:925} INFO - DAG(s) 'example_bash_decorator' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-08-22T16:53:09.475+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:53:09.475+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:53:09.487+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:53:09.487+0500] {dag.py:4138} INFO - Setting next_dagrun for example_bash_decorator to None, run_after=None
+[2024-08-22T16:53:09.507+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py took 0.093 seconds
+[2024-08-22T16:54:10.453+0500] {processor.py:186} INFO - Started process (PID=5565) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-08-22T16:54:10.454+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py for tasks to queue
+[2024-08-22T16:54:10.457+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:54:10.456+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-08-22T16:54:10.474+0500] {processor.py:925} INFO - DAG(s) 'example_bash_decorator' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-08-22T16:54:10.495+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:54:10.494+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:54:10.610+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:54:10.609+0500] {dag.py:4138} INFO - Setting next_dagrun for example_bash_decorator to None, run_after=None
+[2024-08-22T16:54:10.635+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py took 0.190 seconds
+[2024-08-22T16:55:09.612+0500] {processor.py:186} INFO - Started process (PID=5852) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-08-22T16:55:09.624+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py for tasks to queue
+[2024-08-22T16:55:09.627+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:55:09.627+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-08-22T16:55:09.647+0500] {processor.py:925} INFO - DAG(s) 'example_bash_decorator' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-08-22T16:55:09.669+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:55:09.668+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:55:09.808+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:55:09.808+0500] {dag.py:4138} INFO - Setting next_dagrun for example_bash_decorator to None, run_after=None
+[2024-08-22T16:55:09.841+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py took 0.235 seconds
+[2024-08-22T16:56:15.011+0500] {processor.py:186} INFO - Started process (PID=6168) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-08-22T16:56:15.024+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py for tasks to queue
+[2024-08-22T16:56:15.026+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:56:15.026+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-08-22T16:56:15.046+0500] {processor.py:925} INFO - DAG(s) 'example_bash_decorator' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-08-22T16:56:15.067+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:56:15.066+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:56:15.204+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:56:15.203+0500] {dag.py:4138} INFO - Setting next_dagrun for example_bash_decorator to None, run_after=None
+[2024-08-22T16:56:15.234+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py took 0.230 seconds
+[2024-08-22T16:57:19.757+0500] {processor.py:186} INFO - Started process (PID=6480) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-08-22T16:57:19.770+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py for tasks to queue
+[2024-08-22T16:57:19.773+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:57:19.772+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-08-22T16:57:19.792+0500] {processor.py:925} INFO - DAG(s) 'example_bash_decorator' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-08-22T16:57:19.812+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:57:19.812+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:57:19.931+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:57:19.930+0500] {dag.py:4138} INFO - Setting next_dagrun for example_bash_decorator to None, run_after=None
+[2024-08-22T16:57:19.954+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py took 0.206 seconds
+[2024-08-22T16:59:27.053+0500] {processor.py:186} INFO - Started process (PID=7140) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-08-22T16:59:27.065+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py for tasks to queue
+[2024-08-22T16:59:27.067+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:59:27.067+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-08-22T16:59:27.206+0500] {processor.py:925} INFO - DAG(s) 'example_bash_decorator' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-08-22T16:59:27.225+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:59:27.224+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:59:27.238+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:59:27.238+0500] {dag.py:4138} INFO - Setting next_dagrun for example_bash_decorator to None, run_after=None
+[2024-08-22T16:59:27.262+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py took 0.216 seconds
+[2024-08-22T17:00:36.445+0500] {processor.py:186} INFO - Started process (PID=9076) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-08-22T17:00:36.447+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py for tasks to queue
+[2024-08-22T17:00:36.450+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:00:36.450+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-08-22T17:00:36.479+0500] {processor.py:925} INFO - DAG(s) 'example_bash_decorator' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-08-22T17:00:36.512+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:00:36.512+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T17:00:36.530+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:00:36.530+0500] {dag.py:4138} INFO - Setting next_dagrun for example_bash_decorator to None, run_after=None
+[2024-08-22T17:00:36.571+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py took 0.138 seconds
+[2024-08-22T17:01:42.859+0500] {processor.py:186} INFO - Started process (PID=11359) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-08-22T17:01:42.872+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py for tasks to queue
+[2024-08-22T17:01:42.876+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:01:42.875+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-08-22T17:01:42.913+0500] {processor.py:925} INFO - DAG(s) 'example_bash_decorator' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-08-22T17:01:42.965+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:01:42.965+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T17:01:43.017+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:01:43.016+0500] {dag.py:4138} INFO - Setting next_dagrun for example_bash_decorator to None, run_after=None
+[2024-08-22T17:01:43.093+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py took 0.247 seconds
+[2024-08-22T17:02:53.135+0500] {processor.py:186} INFO - Started process (PID=12916) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-08-22T17:02:53.137+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py for tasks to queue
+[2024-08-22T17:02:53.140+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:02:53.139+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-08-22T17:02:53.157+0500] {processor.py:925} INFO - DAG(s) 'example_bash_decorator' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-08-22T17:02:53.179+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:02:53.179+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T17:02:53.192+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:02:53.192+0500] {dag.py:4138} INFO - Setting next_dagrun for example_bash_decorator to None, run_after=None
+[2024-08-22T17:02:53.213+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py took 0.088 seconds
+[2024-08-22T17:03:51.700+0500] {processor.py:186} INFO - Started process (PID=13201) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-08-22T17:03:51.712+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py for tasks to queue
+[2024-08-22T17:03:51.715+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:03:51.715+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-08-22T17:03:51.736+0500] {processor.py:925} INFO - DAG(s) 'example_bash_decorator' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-08-22T17:03:51.760+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:03:51.759+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T17:03:51.776+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:03:51.776+0500] {dag.py:4138} INFO - Setting next_dagrun for example_bash_decorator to None, run_after=None
+[2024-08-22T17:03:51.801+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py took 0.110 seconds
+[2024-08-22T17:04:50.073+0500] {processor.py:186} INFO - Started process (PID=13484) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-08-22T17:04:50.085+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py for tasks to queue
+[2024-08-22T17:04:50.089+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:04:50.088+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-08-22T17:04:50.108+0500] {processor.py:925} INFO - DAG(s) 'example_bash_decorator' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-08-22T17:04:50.129+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:04:50.129+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T17:04:50.140+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:04:50.140+0500] {dag.py:4138} INFO - Setting next_dagrun for example_bash_decorator to None, run_after=None
+[2024-08-22T17:04:50.160+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py took 0.097 seconds
+[2024-08-22T17:05:44.109+0500] {processor.py:186} INFO - Started process (PID=13749) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-08-22T17:05:44.122+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py for tasks to queue
+[2024-08-22T17:05:44.125+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:05:44.124+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-08-22T17:05:44.145+0500] {processor.py:925} INFO - DAG(s) 'example_bash_decorator' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-08-22T17:05:44.165+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:05:44.165+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T17:05:44.179+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:05:44.179+0500] {dag.py:4138} INFO - Setting next_dagrun for example_bash_decorator to None, run_after=None
+[2024-08-22T17:05:44.200+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py took 0.102 seconds
+[2024-08-22T17:06:43.027+0500] {processor.py:186} INFO - Started process (PID=14034) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-08-22T17:06:43.029+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py for tasks to queue
+[2024-08-22T17:06:43.032+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:06:43.032+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-08-22T17:06:43.054+0500] {processor.py:925} INFO - DAG(s) 'example_bash_decorator' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-08-22T17:06:43.073+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:06:43.073+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T17:06:43.086+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:06:43.086+0500] {dag.py:4138} INFO - Setting next_dagrun for example_bash_decorator to None, run_after=None
+[2024-08-22T17:06:43.109+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py took 0.090 seconds
+[2024-08-22T17:07:40.431+0500] {processor.py:186} INFO - Started process (PID=14320) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-08-22T17:07:40.432+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py for tasks to queue
+[2024-08-22T17:07:40.435+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:07:40.435+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-08-22T17:07:40.453+0500] {processor.py:925} INFO - DAG(s) 'example_bash_decorator' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py
+[2024-08-22T17:07:40.476+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:07:40.476+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T17:07:40.491+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:07:40.491+0500] {dag.py:4138} INFO - Setting next_dagrun for example_bash_decorator to None, run_after=None
+[2024-08-22T17:07:40.520+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_decorator.py took 0.097 seconds

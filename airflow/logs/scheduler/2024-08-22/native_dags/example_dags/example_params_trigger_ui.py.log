@@ -1,0 +1,133 @@
+[2024-08-22T16:48:05.497+0500] {processor.py:186} INFO - Started process (PID=3774) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-08-22T16:48:05.498+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2024-08-22T16:48:05.501+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:48:05.500+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-08-22T16:48:05.514+0500] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-08-22T16:48:05.555+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:48:05.555+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:48:05.565+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:48:05.564+0500] {dag.py:4138} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2024-08-22T16:48:05.598+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.110 seconds
+[2024-08-22T16:49:03.204+0500] {processor.py:186} INFO - Started process (PID=4082) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-08-22T16:49:03.205+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2024-08-22T16:49:03.207+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:49:03.207+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-08-22T16:49:03.219+0500] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-08-22T16:49:03.258+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:49:03.258+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:49:03.270+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:49:03.269+0500] {dag.py:4138} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2024-08-22T16:49:03.290+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.091 seconds
+[2024-08-22T16:50:02.088+0500] {processor.py:186} INFO - Started process (PID=4369) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-08-22T16:50:02.096+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2024-08-22T16:50:02.098+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:50:02.098+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-08-22T16:50:02.110+0500] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-08-22T16:50:02.151+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:50:02.151+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:50:02.162+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:50:02.162+0500] {dag.py:4138} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2024-08-22T16:50:02.184+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.103 seconds
+[2024-08-22T16:50:59.588+0500] {processor.py:186} INFO - Started process (PID=4648) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-08-22T16:50:59.589+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2024-08-22T16:50:59.592+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:50:59.591+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-08-22T16:50:59.603+0500] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-08-22T16:50:59.654+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:50:59.653+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:50:59.665+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:50:59.664+0500] {dag.py:4138} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2024-08-22T16:50:59.683+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.102 seconds
+[2024-08-22T16:51:59.092+0500] {processor.py:186} INFO - Started process (PID=4933) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-08-22T16:51:59.094+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2024-08-22T16:51:59.096+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:51:59.096+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-08-22T16:51:59.109+0500] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-08-22T16:51:59.154+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:51:59.153+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:51:59.166+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:51:59.166+0500] {dag.py:4138} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2024-08-22T16:51:59.190+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.107 seconds
+[2024-08-22T16:53:01.253+0500] {processor.py:186} INFO - Started process (PID=5232) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-08-22T16:53:01.255+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2024-08-22T16:53:01.258+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:53:01.258+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-08-22T16:53:01.280+0500] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-08-22T16:53:01.324+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:53:01.324+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:53:01.456+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:53:01.456+0500] {dag.py:4138} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2024-08-22T16:53:01.489+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.244 seconds
+[2024-08-22T16:54:02.550+0500] {processor.py:186} INFO - Started process (PID=5526) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-08-22T16:54:02.552+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2024-08-22T16:54:02.556+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:54:02.555+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-08-22T16:54:02.567+0500] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-08-22T16:54:02.610+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:54:02.610+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:54:02.728+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:54:02.727+0500] {dag.py:4138} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2024-08-22T16:54:02.756+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.214 seconds
+[2024-08-22T16:55:00.618+0500] {processor.py:186} INFO - Started process (PID=5810) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-08-22T16:55:00.620+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2024-08-22T16:55:00.622+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:55:00.622+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-08-22T16:55:00.635+0500] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-08-22T16:55:00.683+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:55:00.682+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:55:00.810+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:55:00.809+0500] {dag.py:4138} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2024-08-22T16:55:00.843+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.232 seconds
+[2024-08-22T16:56:06.530+0500] {processor.py:186} INFO - Started process (PID=6129) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-08-22T16:56:06.532+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2024-08-22T16:56:06.535+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:56:06.534+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-08-22T16:56:06.549+0500] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-08-22T16:56:06.600+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:56:06.600+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:56:06.728+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:56:06.728+0500] {dag.py:4138} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2024-08-22T16:56:06.763+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.241 seconds
+[2024-08-22T16:57:13.099+0500] {processor.py:186} INFO - Started process (PID=6448) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-08-22T16:57:13.111+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2024-08-22T16:57:13.113+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:57:13.113+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-08-22T16:57:13.126+0500] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-08-22T16:57:13.166+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:57:13.166+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:57:13.280+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:57:13.279+0500] {dag.py:4138} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2024-08-22T16:57:13.308+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.215 seconds
+[2024-08-22T16:59:18.273+0500] {processor.py:186} INFO - Started process (PID=7099) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-08-22T16:59:18.285+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2024-08-22T16:59:18.287+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:59:18.287+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-08-22T16:59:18.300+0500] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-08-22T16:59:18.485+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:59:18.485+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:59:18.499+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:59:18.499+0500] {dag.py:4138} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2024-08-22T16:59:18.532+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.265 seconds
+[2024-08-22T17:00:28.921+0500] {processor.py:186} INFO - Started process (PID=8766) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-08-22T17:00:28.935+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2024-08-22T17:00:28.940+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:00:28.939+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-08-22T17:00:28.968+0500] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-08-22T17:00:29.074+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:00:29.073+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T17:00:29.109+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:00:29.108+0500] {dag.py:4138} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2024-08-22T17:00:29.152+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.244 seconds
+[2024-08-22T17:01:35.192+0500] {processor.py:186} INFO - Started process (PID=11188) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-08-22T17:01:35.194+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2024-08-22T17:01:35.198+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:01:35.197+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-08-22T17:01:35.223+0500] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-08-22T17:01:35.317+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:01:35.317+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T17:01:35.350+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:01:35.349+0500] {dag.py:4138} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2024-08-22T17:01:35.400+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.223 seconds
+[2024-08-22T17:02:45.159+0500] {processor.py:186} INFO - Started process (PID=12878) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-08-22T17:02:45.171+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2024-08-22T17:02:45.173+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:02:45.173+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-08-22T17:02:45.190+0500] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-08-22T17:02:45.277+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:02:45.276+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T17:02:45.299+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:02:45.299+0500] {dag.py:4138} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2024-08-22T17:02:45.356+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.208 seconds
+[2024-08-22T17:03:43.922+0500] {processor.py:186} INFO - Started process (PID=13164) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-08-22T17:03:43.934+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2024-08-22T17:03:43.937+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:03:43.937+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-08-22T17:03:43.954+0500] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-08-22T17:03:43.996+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:03:43.996+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T17:03:44.009+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:03:44.009+0500] {dag.py:4138} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2024-08-22T17:03:44.030+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.119 seconds
+[2024-08-22T17:04:43.124+0500] {processor.py:186} INFO - Started process (PID=13450) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-08-22T17:04:43.136+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2024-08-22T17:04:43.139+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:04:43.139+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-08-22T17:04:43.152+0500] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-08-22T17:04:43.197+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:04:43.197+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T17:04:43.211+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:04:43.211+0500] {dag.py:4138} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2024-08-22T17:04:43.234+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.118 seconds
+[2024-08-22T17:05:36.157+0500] {processor.py:186} INFO - Started process (PID=13711) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-08-22T17:05:36.159+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2024-08-22T17:05:36.162+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:05:36.161+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-08-22T17:05:36.175+0500] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-08-22T17:05:36.219+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:05:36.219+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T17:05:36.233+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:05:36.233+0500] {dag.py:4138} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2024-08-22T17:05:36.254+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.103 seconds
+[2024-08-22T17:06:35.551+0500] {processor.py:186} INFO - Started process (PID=13997) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-08-22T17:06:35.563+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2024-08-22T17:06:35.566+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:06:35.566+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-08-22T17:06:35.581+0500] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-08-22T17:06:35.642+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:06:35.642+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T17:06:35.659+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:06:35.659+0500] {dag.py:4138} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2024-08-22T17:06:35.684+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.140 seconds
+[2024-08-22T17:07:34.279+0500] {processor.py:186} INFO - Started process (PID=14289) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-08-22T17:07:34.280+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2024-08-22T17:07:34.282+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:07:34.282+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-08-22T17:07:34.295+0500] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-08-22T17:07:34.345+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:07:34.344+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T17:07:34.359+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:07:34.359+0500] {dag.py:4138} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2024-08-22T17:07:34.400+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.128 seconds

@@ -1,0 +1,133 @@
+[2024-08-22T16:48:02.042+0500] {processor.py:186} INFO - Started process (PID=3758) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-08-22T16:48:02.043+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-08-22T16:48:02.046+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:48:02.046+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-08-22T16:48:02.055+0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-08-22T16:48:02.071+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:48:02.071+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:48:02.084+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:48:02.084+0500] {dag.py:4138} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-08-22T16:48:02.119+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.086 seconds
+[2024-08-22T16:49:00.640+0500] {processor.py:186} INFO - Started process (PID=4069) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-08-22T16:49:00.642+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-08-22T16:49:00.644+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:49:00.643+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-08-22T16:49:00.651+0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-08-22T16:49:00.666+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:49:00.666+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:49:00.679+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:49:00.679+0500] {dag.py:4138} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-08-22T16:49:00.700+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.067 seconds
+[2024-08-22T16:49:59.569+0500] {processor.py:186} INFO - Started process (PID=4357) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-08-22T16:49:59.581+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-08-22T16:49:59.584+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:49:59.584+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-08-22T16:49:59.593+0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-08-22T16:49:59.609+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:49:59.609+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:49:59.622+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:49:59.622+0500] {dag.py:4138} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-08-22T16:49:59.642+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.079 seconds
+[2024-08-22T16:50:56.537+0500] {processor.py:186} INFO - Started process (PID=4634) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-08-22T16:50:56.549+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-08-22T16:50:56.552+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:50:56.551+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-08-22T16:50:56.560+0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-08-22T16:50:56.575+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:50:56.575+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:50:56.587+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:50:56.587+0500] {dag.py:4138} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-08-22T16:50:56.608+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.079 seconds
+[2024-08-22T16:51:55.186+0500] {processor.py:186} INFO - Started process (PID=4915) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-08-22T16:51:55.198+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-08-22T16:51:55.202+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:51:55.202+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-08-22T16:51:55.213+0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-08-22T16:51:55.231+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:51:55.231+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:51:55.244+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:51:55.243+0500] {dag.py:4138} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-08-22T16:51:55.268+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.092 seconds
+[2024-08-22T16:52:57.289+0500] {processor.py:186} INFO - Started process (PID=5214) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-08-22T16:52:57.301+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-08-22T16:52:57.304+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:52:57.303+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-08-22T16:52:57.313+0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-08-22T16:52:57.328+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:52:57.328+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:52:57.340+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:52:57.340+0500] {dag.py:4138} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-08-22T16:52:57.468+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.196 seconds
+[2024-08-22T16:53:58.555+0500] {processor.py:186} INFO - Started process (PID=5507) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-08-22T16:53:58.568+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-08-22T16:53:58.571+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:53:58.571+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-08-22T16:53:58.580+0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-08-22T16:53:58.596+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:53:58.595+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:53:58.608+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:53:58.608+0500] {dag.py:4138} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-08-22T16:53:58.735+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.189 seconds
+[2024-08-22T16:54:57.698+0500] {processor.py:186} INFO - Started process (PID=5796) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-08-22T16:54:57.707+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-08-22T16:54:57.710+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:54:57.710+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-08-22T16:54:57.719+0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-08-22T16:54:57.736+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:54:57.736+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:54:57.752+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:54:57.752+0500] {dag.py:4138} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-08-22T16:54:57.778+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.090 seconds
+[2024-08-22T16:55:58.081+0500] {processor.py:186} INFO - Started process (PID=6088) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-08-22T16:55:58.083+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-08-22T16:55:58.085+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:55:58.085+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-08-22T16:55:58.094+0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-08-22T16:55:58.112+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:55:58.112+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:55:58.127+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:55:58.127+0500] {dag.py:4138} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-08-22T16:55:58.149+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.078 seconds
+[2024-08-22T16:57:05.196+0500] {processor.py:186} INFO - Started process (PID=6408) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-08-22T16:57:05.208+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-08-22T16:57:05.210+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:57:05.210+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-08-22T16:57:05.216+0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-08-22T16:57:05.229+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:57:05.229+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:57:05.240+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:57:05.239+0500] {dag.py:4138} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-08-22T16:57:05.260+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.069 seconds
+[2024-08-22T16:58:08.179+0500] {processor.py:186} INFO - Started process (PID=6715) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-08-22T16:58:08.190+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-08-22T16:58:08.192+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:58:08.192+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-08-22T16:58:08.200+0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-08-22T16:58:08.215+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:58:08.214+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:58:08.227+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:58:08.227+0500] {dag.py:4138} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-08-22T16:58:08.247+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.075 seconds
+[2024-08-22T17:00:16.586+0500] {processor.py:186} INFO - Started process (PID=8419) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-08-22T17:00:16.618+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-08-22T17:00:16.623+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:00:16.622+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-08-22T17:00:16.661+0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-08-22T17:00:16.736+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:00:16.736+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T17:00:16.795+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:00:16.794+0500] {dag.py:4138} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-08-22T17:00:16.897+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.333 seconds
+[2024-08-22T17:01:23.197+0500] {processor.py:186} INFO - Started process (PID=10839) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-08-22T17:01:23.199+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-08-22T17:01:23.204+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:01:23.204+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-08-22T17:01:23.222+0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-08-22T17:01:23.259+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:01:23.258+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T17:01:23.289+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:01:23.288+0500] {dag.py:4138} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-08-22T17:01:23.338+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.153 seconds
+[2024-08-22T17:02:34.605+0500] {processor.py:186} INFO - Started process (PID=12827) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-08-22T17:02:34.618+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-08-22T17:02:34.623+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:02:34.622+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-08-22T17:02:34.645+0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-08-22T17:02:34.672+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:02:34.671+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T17:02:34.701+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:02:34.701+0500] {dag.py:4138} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-08-22T17:02:34.746+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.148 seconds
+[2024-08-22T17:03:34.979+0500] {processor.py:186} INFO - Started process (PID=13121) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-08-22T17:03:34.981+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-08-22T17:03:34.984+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:03:34.983+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-08-22T17:03:34.994+0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-08-22T17:03:35.012+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:03:35.012+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T17:03:35.026+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:03:35.025+0500] {dag.py:4138} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-08-22T17:03:35.052+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.084 seconds
+[2024-08-22T17:04:33.397+0500] {processor.py:186} INFO - Started process (PID=13403) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-08-22T17:04:33.399+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-08-22T17:04:33.403+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:04:33.402+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-08-22T17:04:33.412+0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-08-22T17:04:33.429+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:04:33.429+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T17:04:33.442+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:04:33.441+0500] {dag.py:4138} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-08-22T17:04:33.465+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.078 seconds
+[2024-08-22T17:05:28.946+0500] {processor.py:186} INFO - Started process (PID=13675) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-08-22T17:05:28.958+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-08-22T17:05:28.961+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:05:28.960+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-08-22T17:05:28.970+0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-08-22T17:05:28.986+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:05:28.986+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T17:05:28.999+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:05:28.999+0500] {dag.py:4138} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-08-22T17:05:29.025+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.087 seconds
+[2024-08-22T17:06:25.085+0500] {processor.py:186} INFO - Started process (PID=13946) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-08-22T17:06:25.098+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-08-22T17:06:25.101+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:06:25.101+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-08-22T17:06:25.111+0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-08-22T17:06:25.129+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:06:25.129+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T17:06:25.141+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:06:25.141+0500] {dag.py:4138} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-08-22T17:06:25.164+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.089 seconds
+[2024-08-22T17:07:24.959+0500] {processor.py:186} INFO - Started process (PID=14242) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-08-22T17:07:24.971+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-08-22T17:07:24.973+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:07:24.973+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-08-22T17:07:24.980+0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-08-22T17:07:25.000+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:07:25.000+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T17:07:25.015+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:07:25.015+0500] {dag.py:4138} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-08-22T17:07:25.040+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py took 0.088 seconds

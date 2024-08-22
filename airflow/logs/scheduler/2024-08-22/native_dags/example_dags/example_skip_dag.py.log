@@ -1,0 +1,154 @@
+[2024-08-22T16:47:36.478+0500] {processor.py:186} INFO - Started process (PID=3635) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T16:47:36.479+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-08-22T16:47:36.482+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:47:36.482+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T16:47:36.494+0500] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T16:47:36.517+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:47:36.517+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:47:36.541+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:47:36.539+0500] {dag.py:4138} INFO - Setting next_dagrun for example_skip_dag to 2024-08-21 00:00:00+00:00, run_after=2024-08-22 00:00:00+00:00
+[2024-08-22T16:47:36.578+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.106 seconds
+[2024-08-22T16:48:36.712+0500] {processor.py:186} INFO - Started process (PID=3952) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T16:48:36.714+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-08-22T16:48:36.717+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:48:36.716+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T16:48:36.725+0500] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T16:48:36.742+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:48:36.741+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:48:36.760+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:48:36.759+0500] {dag.py:4138} INFO - Setting next_dagrun for example_skip_dag to 2024-08-21 00:00:00+00:00, run_after=2024-08-22 00:00:00+00:00
+[2024-08-22T16:48:36.779+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.074 seconds
+[2024-08-22T16:49:34.025+0500] {processor.py:186} INFO - Started process (PID=4232) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T16:49:34.037+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-08-22T16:49:34.040+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:49:34.039+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T16:49:34.048+0500] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T16:49:34.065+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:49:34.065+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:49:34.083+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:49:34.083+0500] {dag.py:4138} INFO - Setting next_dagrun for example_skip_dag to 2024-08-21 00:00:00+00:00, run_after=2024-08-22 00:00:00+00:00
+[2024-08-22T16:49:34.105+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.089 seconds
+[2024-08-22T16:50:29.629+0500] {processor.py:186} INFO - Started process (PID=4504) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T16:50:29.630+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-08-22T16:50:29.633+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:50:29.633+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T16:50:29.642+0500] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T16:50:29.659+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:50:29.659+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:50:29.679+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:50:29.678+0500] {dag.py:4138} INFO - Setting next_dagrun for example_skip_dag to 2024-08-21 00:00:00+00:00, run_after=2024-08-22 00:00:00+00:00
+[2024-08-22T16:50:29.698+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.078 seconds
+[2024-08-22T16:51:27.232+0500] {processor.py:186} INFO - Started process (PID=4783) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T16:51:27.245+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-08-22T16:51:27.248+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:51:27.248+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T16:51:27.259+0500] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T16:51:27.277+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:51:27.277+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:51:27.297+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:51:27.297+0500] {dag.py:4138} INFO - Setting next_dagrun for example_skip_dag to 2024-08-21 00:00:00+00:00, run_after=2024-08-22 00:00:00+00:00
+[2024-08-22T16:51:27.319+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.094 seconds
+[2024-08-22T16:52:26.234+0500] {processor.py:186} INFO - Started process (PID=5066) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T16:52:26.246+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-08-22T16:52:26.250+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:52:26.250+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T16:52:26.265+0500] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T16:52:26.289+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:52:26.288+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:52:26.310+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:52:26.310+0500] {dag.py:4138} INFO - Setting next_dagrun for example_skip_dag to 2024-08-21 00:00:00+00:00, run_after=2024-08-22 00:00:00+00:00
+[2024-08-22T16:52:26.332+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.109 seconds
+[2024-08-22T16:53:29.924+0500] {processor.py:186} INFO - Started process (PID=5370) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T16:53:29.936+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-08-22T16:53:29.939+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:53:29.939+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T16:53:29.949+0500] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T16:53:29.968+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:53:29.967+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:53:29.987+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:53:29.987+0500] {dag.py:4138} INFO - Setting next_dagrun for example_skip_dag to 2024-08-21 00:00:00+00:00, run_after=2024-08-22 00:00:00+00:00
+[2024-08-22T16:53:30.007+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.090 seconds
+[2024-08-22T16:54:31.279+0500] {processor.py:186} INFO - Started process (PID=5667) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T16:54:31.281+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-08-22T16:54:31.283+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:54:31.283+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T16:54:31.293+0500] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T16:54:31.309+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:54:31.309+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:54:31.334+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:54:31.334+0500] {dag.py:4138} INFO - Setting next_dagrun for example_skip_dag to 2024-08-21 00:00:00+00:00, run_after=2024-08-22 00:00:00+00:00
+[2024-08-22T16:54:31.361+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.088 seconds
+[2024-08-22T16:55:32.654+0500] {processor.py:186} INFO - Started process (PID=5963) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T16:55:32.666+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-08-22T16:55:32.671+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:55:32.670+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T16:55:32.681+0500] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T16:55:32.701+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:55:32.700+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:55:32.723+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:55:32.723+0500] {dag.py:4138} INFO - Setting next_dagrun for example_skip_dag to 2024-08-21 00:00:00+00:00, run_after=2024-08-22 00:00:00+00:00
+[2024-08-22T16:55:32.745+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.100 seconds
+[2024-08-22T16:56:40.147+0500] {processor.py:186} INFO - Started process (PID=6287) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T16:56:40.160+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-08-22T16:56:40.163+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:56:40.162+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T16:56:40.171+0500] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T16:56:40.190+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:56:40.189+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:56:40.212+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:56:40.211+0500] {dag.py:4138} INFO - Setting next_dagrun for example_skip_dag to 2024-08-21 00:00:00+00:00, run_after=2024-08-22 00:00:00+00:00
+[2024-08-22T16:56:40.235+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.095 seconds
+[2024-08-22T16:57:42.902+0500] {processor.py:186} INFO - Started process (PID=6589) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T16:57:42.904+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-08-22T16:57:42.908+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:57:42.907+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T16:57:42.921+0500] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T16:57:42.939+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:57:42.939+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:57:42.958+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:57:42.958+0500] {dag.py:4138} INFO - Setting next_dagrun for example_skip_dag to 2024-08-21 00:00:00+00:00, run_after=2024-08-22 00:00:00+00:00
+[2024-08-22T16:57:42.980+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.089 seconds
+[2024-08-22T16:58:49.964+0500] {processor.py:186} INFO - Started process (PID=6917) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T16:58:49.966+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-08-22T16:58:49.969+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:58:49.969+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T16:58:49.986+0500] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T16:58:50.008+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:58:50.008+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:58:50.157+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:58:50.157+0500] {dag.py:4138} INFO - Setting next_dagrun for example_skip_dag to 2024-08-21 00:00:00+00:00, run_after=2024-08-22 00:00:00+00:00
+[2024-08-22T16:58:50.185+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.228 seconds
+[2024-08-22T16:59:51.323+0500] {processor.py:186} INFO - Started process (PID=7494) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T16:59:51.325+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-08-22T16:59:51.329+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:59:51.328+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T16:59:51.341+0500] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T16:59:51.369+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:59:51.369+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:59:51.403+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:59:51.403+0500] {dag.py:4138} INFO - Setting next_dagrun for example_skip_dag to 2024-08-21 00:00:00+00:00, run_after=2024-08-22 00:00:00+00:00
+[2024-08-22T16:59:51.435+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.124 seconds
+[2024-08-22T17:00:27.210+0500] {processor.py:186} INFO - Started process (PID=8707) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T17:00:27.212+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-08-22T17:00:27.214+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:00:27.214+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T17:00:27.223+0500] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T17:00:27.253+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:00:27.252+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T17:00:27.283+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:00:27.283+0500] {dag.py:4138} INFO - Setting next_dagrun for example_skip_dag to 2024-08-21 00:00:00+00:00, run_after=2024-08-22 00:00:00+00:00
+[2024-08-22T17:00:27.310+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.107 seconds
+[2024-08-22T17:01:32.616+0500] {processor.py:186} INFO - Started process (PID=11137) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T17:01:32.619+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-08-22T17:01:32.624+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:01:32.623+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T17:01:32.642+0500] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T17:01:32.692+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:01:32.691+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T17:01:32.741+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:01:32.741+0500] {dag.py:4138} INFO - Setting next_dagrun for example_skip_dag to 2024-08-21 00:00:00+00:00, run_after=2024-08-22 00:00:00+00:00
+[2024-08-22T17:01:32.790+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.188 seconds
+[2024-08-22T17:02:09.148+0500] {processor.py:186} INFO - Started process (PID=12604) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T17:02:09.150+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-08-22T17:02:09.153+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:02:09.152+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T17:02:09.165+0500] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T17:02:09.189+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:02:09.188+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T17:02:09.223+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:02:09.223+0500] {dag.py:4138} INFO - Setting next_dagrun for example_skip_dag to 2024-08-21 00:00:00+00:00, run_after=2024-08-22 00:00:00+00:00
+[2024-08-22T17:02:09.259+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.122 seconds
+[2024-08-22T17:02:43.883+0500] {processor.py:186} INFO - Started process (PID=12872) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T17:02:43.885+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-08-22T17:02:43.888+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:02:43.888+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T17:02:43.927+0500] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T17:02:43.966+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:02:43.965+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T17:02:44.009+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:02:44.008+0500] {dag.py:4138} INFO - Setting next_dagrun for example_skip_dag to 2024-08-21 00:00:00+00:00, run_after=2024-08-22 00:00:00+00:00
+[2024-08-22T17:02:44.052+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.182 seconds
+[2024-08-22T17:03:42.650+0500] {processor.py:186} INFO - Started process (PID=13158) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T17:03:42.662+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-08-22T17:03:42.666+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:03:42.665+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T17:03:42.678+0500] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T17:03:42.697+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:03:42.697+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T17:03:42.718+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:03:42.717+0500] {dag.py:4138} INFO - Setting next_dagrun for example_skip_dag to 2024-08-21 00:00:00+00:00, run_after=2024-08-22 00:00:00+00:00
+[2024-08-22T17:03:42.740+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.101 seconds
+[2024-08-22T17:04:41.854+0500] {processor.py:186} INFO - Started process (PID=13444) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T17:04:41.867+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-08-22T17:04:41.870+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:04:41.870+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T17:04:41.880+0500] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T17:04:41.901+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:04:41.901+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T17:04:41.923+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:04:41.923+0500] {dag.py:4138} INFO - Setting next_dagrun for example_skip_dag to 2024-08-21 00:00:00+00:00, run_after=2024-08-22 00:00:00+00:00
+[2024-08-22T17:04:41.946+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.101 seconds
+[2024-08-22T17:05:34.252+0500] {processor.py:186} INFO - Started process (PID=13701) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T17:05:34.254+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-08-22T17:05:34.257+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:05:34.256+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T17:05:34.267+0500] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T17:05:34.286+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:05:34.286+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T17:05:34.307+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:05:34.306+0500] {dag.py:4138} INFO - Setting next_dagrun for example_skip_dag to 2024-08-21 00:00:00+00:00, run_after=2024-08-22 00:00:00+00:00
+[2024-08-22T17:05:34.330+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.087 seconds
+[2024-08-22T17:06:32.112+0500] {processor.py:186} INFO - Started process (PID=13981) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T17:06:32.125+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-08-22T17:06:32.129+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:06:32.128+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T17:06:32.140+0500] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T17:06:32.160+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:06:32.160+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T17:06:32.180+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:06:32.180+0500] {dag.py:4138} INFO - Setting next_dagrun for example_skip_dag to 2024-08-21 00:00:00+00:00, run_after=2024-08-22 00:00:00+00:00
+[2024-08-22T17:06:32.205+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.102 seconds
+[2024-08-22T17:07:30.730+0500] {processor.py:186} INFO - Started process (PID=14271) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T17:07:30.741+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-08-22T17:07:30.744+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:07:30.744+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T17:07:30.753+0500] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-08-22T17:07:30.770+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:07:30.770+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T17:07:30.791+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:07:30.791+0500] {dag.py:4138} INFO - Setting next_dagrun for example_skip_dag to 2024-08-21 00:00:00+00:00, run_after=2024-08-22 00:00:00+00:00
+[2024-08-22T17:07:30.822+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.099 seconds

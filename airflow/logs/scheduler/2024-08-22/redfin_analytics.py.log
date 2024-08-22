@@ -1,0 +1,196 @@
+[2024-08-22T16:47:13.828+0500] {processor.py:186} INFO - Started process (PID=3424) to work on /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T16:47:13.829+0500] {processor.py:914} INFO - Processing file /home/rayyan/airflow/dags/redfin_analytics.py for tasks to queue
+[2024-08-22T16:47:13.832+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:47:13.831+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T16:47:14.413+0500] {processor.py:925} INFO - DAG(s) 'redfin_analytics_dag' retrieved from /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T16:47:14.434+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:47:14.434+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:47:14.453+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:47:14.452+0500] {dag.py:4138} INFO - Setting next_dagrun for redfin_analytics_dag to 2024-08-21 00:00:00+00:00, run_after=2024-08-22 00:00:00+00:00
+[2024-08-22T16:47:14.475+0500] {processor.py:208} INFO - Processing /home/rayyan/airflow/dags/redfin_analytics.py took 0.652 seconds
+[2024-08-22T16:48:31.807+0500] {processor.py:186} INFO - Started process (PID=3926) to work on /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T16:48:31.819+0500] {processor.py:914} INFO - Processing file /home/rayyan/airflow/dags/redfin_analytics.py for tasks to queue
+[2024-08-22T16:48:31.821+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:48:31.821+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T16:48:32.062+0500] {processor.py:925} INFO - DAG(s) 'redfin_analytics_dag' retrieved from /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T16:48:32.073+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:48:32.073+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:48:32.087+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:48:32.087+0500] {dag.py:4138} INFO - Setting next_dagrun for redfin_analytics_dag to 2024-08-22 00:00:00+00:00, run_after=2024-08-23 00:00:00+00:00
+[2024-08-22T16:48:32.118+0500] {processor.py:208} INFO - Processing /home/rayyan/airflow/dags/redfin_analytics.py took 0.317 seconds
+[2024-08-22T16:49:30.313+0500] {processor.py:186} INFO - Started process (PID=4214) to work on /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T16:49:30.315+0500] {processor.py:914} INFO - Processing file /home/rayyan/airflow/dags/redfin_analytics.py for tasks to queue
+[2024-08-22T16:49:30.318+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:49:30.318+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T16:49:30.566+0500] {processor.py:925} INFO - DAG(s) 'redfin_analytics_dag' retrieved from /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T16:49:30.576+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:49:30.576+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:49:30.590+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:49:30.590+0500] {dag.py:4138} INFO - Setting next_dagrun for redfin_analytics_dag to 2024-08-22 00:00:00+00:00, run_after=2024-08-23 00:00:00+00:00
+[2024-08-22T16:49:30.609+0500] {processor.py:208} INFO - Processing /home/rayyan/airflow/dags/redfin_analytics.py took 0.306 seconds
+[2024-08-22T16:50:25.071+0500] {processor.py:186} INFO - Started process (PID=4481) to work on /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T16:50:25.082+0500] {processor.py:914} INFO - Processing file /home/rayyan/airflow/dags/redfin_analytics.py for tasks to queue
+[2024-08-22T16:50:25.085+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:50:25.084+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T16:50:25.349+0500] {processor.py:925} INFO - DAG(s) 'redfin_analytics_dag' retrieved from /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T16:50:25.361+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:50:25.360+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:50:25.387+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:50:25.386+0500] {dag.py:4138} INFO - Setting next_dagrun for redfin_analytics_dag to 2024-08-22 00:00:00+00:00, run_after=2024-08-23 00:00:00+00:00
+[2024-08-22T16:50:25.424+0500] {processor.py:208} INFO - Processing /home/rayyan/airflow/dags/redfin_analytics.py took 0.361 seconds
+[2024-08-22T16:51:23.078+0500] {processor.py:186} INFO - Started process (PID=4763) to work on /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T16:51:23.079+0500] {processor.py:914} INFO - Processing file /home/rayyan/airflow/dags/redfin_analytics.py for tasks to queue
+[2024-08-22T16:51:23.082+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:51:23.081+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T16:51:23.315+0500] {processor.py:925} INFO - DAG(s) 'redfin_analytics_dag' retrieved from /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T16:51:23.333+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:51:23.333+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:51:23.357+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:51:23.357+0500] {dag.py:4138} INFO - Setting next_dagrun for redfin_analytics_dag to 2024-08-22 00:00:00+00:00, run_after=2024-08-23 00:00:00+00:00
+[2024-08-22T16:51:23.383+0500] {processor.py:208} INFO - Processing /home/rayyan/airflow/dags/redfin_analytics.py took 0.312 seconds
+[2024-08-22T16:52:22.263+0500] {processor.py:186} INFO - Started process (PID=5047) to work on /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T16:52:22.275+0500] {processor.py:914} INFO - Processing file /home/rayyan/airflow/dags/redfin_analytics.py for tasks to queue
+[2024-08-22T16:52:22.278+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:52:22.278+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T16:52:22.537+0500] {processor.py:925} INFO - DAG(s) 'redfin_analytics_dag' retrieved from /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T16:52:22.546+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:52:22.546+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:52:22.565+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:52:22.564+0500] {dag.py:4138} INFO - Setting next_dagrun for redfin_analytics_dag to 2024-08-22 00:00:00+00:00, run_after=2024-08-23 00:00:00+00:00
+[2024-08-22T16:52:22.595+0500] {processor.py:208} INFO - Processing /home/rayyan/airflow/dags/redfin_analytics.py took 0.345 seconds
+[2024-08-22T16:52:53.228+0500] {processor.py:186} INFO - Started process (PID=5193) to work on /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T16:52:53.240+0500] {processor.py:914} INFO - Processing file /home/rayyan/airflow/dags/redfin_analytics.py for tasks to queue
+[2024-08-22T16:52:53.243+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:52:53.243+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T16:52:53.501+0500] {processor.py:925} INFO - DAG(s) 'redfin_analytics_dag' retrieved from /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T16:52:53.512+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:52:53.512+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:52:53.529+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:52:53.529+0500] {dag.py:4138} INFO - Setting next_dagrun for redfin_analytics_dag to 2024-08-22 00:00:00+00:00, run_after=2024-08-23 00:00:00+00:00
+[2024-08-22T16:52:53.547+0500] {processor.py:208} INFO - Processing /home/rayyan/airflow/dags/redfin_analytics.py took 0.329 seconds
+[2024-08-22T16:53:25.355+0500] {processor.py:186} INFO - Started process (PID=5349) to work on /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T16:53:25.367+0500] {processor.py:914} INFO - Processing file /home/rayyan/airflow/dags/redfin_analytics.py for tasks to queue
+[2024-08-22T16:53:25.369+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:53:25.369+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T16:53:25.620+0500] {processor.py:925} INFO - DAG(s) 'redfin_analytics_dag' retrieved from /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T16:53:25.629+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:53:25.629+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:53:25.645+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:53:25.645+0500] {dag.py:4138} INFO - Setting next_dagrun for redfin_analytics_dag to 2024-08-22 00:00:00+00:00, run_after=2024-08-23 00:00:00+00:00
+[2024-08-22T16:53:25.666+0500] {processor.py:208} INFO - Processing /home/rayyan/airflow/dags/redfin_analytics.py took 0.316 seconds
+[2024-08-22T16:53:56.009+0500] {processor.py:186} INFO - Started process (PID=5496) to work on /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T16:53:56.011+0500] {processor.py:914} INFO - Processing file /home/rayyan/airflow/dags/redfin_analytics.py for tasks to queue
+[2024-08-22T16:53:56.014+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:53:56.014+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T16:53:56.273+0500] {processor.py:925} INFO - DAG(s) 'redfin_analytics_dag' retrieved from /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T16:53:56.282+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:53:56.282+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:53:56.296+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:53:56.296+0500] {dag.py:4138} INFO - Setting next_dagrun for redfin_analytics_dag to 2024-08-22 00:00:00+00:00, run_after=2024-08-23 00:00:00+00:00
+[2024-08-22T16:53:56.328+0500] {processor.py:208} INFO - Processing /home/rayyan/airflow/dags/redfin_analytics.py took 0.329 seconds
+[2024-08-22T16:54:27.068+0500] {processor.py:186} INFO - Started process (PID=5647) to work on /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T16:54:27.080+0500] {processor.py:914} INFO - Processing file /home/rayyan/airflow/dags/redfin_analytics.py for tasks to queue
+[2024-08-22T16:54:27.082+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:54:27.082+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T16:54:27.332+0500] {processor.py:925} INFO - DAG(s) 'redfin_analytics_dag' retrieved from /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T16:54:27.345+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:54:27.344+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:54:27.362+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:54:27.361+0500] {dag.py:4138} INFO - Setting next_dagrun for redfin_analytics_dag to 2024-08-22 00:00:00+00:00, run_after=2024-08-23 00:00:00+00:00
+[2024-08-22T16:54:27.390+0500] {processor.py:208} INFO - Processing /home/rayyan/airflow/dags/redfin_analytics.py took 0.329 seconds
+[2024-08-22T16:55:28.141+0500] {processor.py:186} INFO - Started process (PID=5941) to work on /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T16:55:28.143+0500] {processor.py:914} INFO - Processing file /home/rayyan/airflow/dags/redfin_analytics.py for tasks to queue
+[2024-08-22T16:55:28.145+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:55:28.145+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T16:55:28.439+0500] {processor.py:925} INFO - DAG(s) 'redfin_analytics_dag' retrieved from /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T16:55:28.452+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:55:28.452+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:55:28.472+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:55:28.472+0500] {dag.py:4138} INFO - Setting next_dagrun for redfin_analytics_dag to 2024-08-22 00:00:00+00:00, run_after=2024-08-23 00:00:00+00:00
+[2024-08-22T16:55:28.523+0500] {processor.py:208} INFO - Processing /home/rayyan/airflow/dags/redfin_analytics.py took 0.388 seconds
+[2024-08-22T16:56:00.938+0500] {processor.py:186} INFO - Started process (PID=6102) to work on /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T16:56:00.940+0500] {processor.py:914} INFO - Processing file /home/rayyan/airflow/dags/redfin_analytics.py for tasks to queue
+[2024-08-22T16:56:00.943+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:56:00.943+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T16:56:01.211+0500] {processor.py:925} INFO - DAG(s) 'redfin_analytics_dag' retrieved from /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T16:56:01.224+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:56:01.223+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:56:01.244+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:56:01.243+0500] {dag.py:4138} INFO - Setting next_dagrun for redfin_analytics_dag to 2024-08-22 00:00:00+00:00, run_after=2024-08-23 00:00:00+00:00
+[2024-08-22T16:56:01.265+0500] {processor.py:208} INFO - Processing /home/rayyan/airflow/dags/redfin_analytics.py took 0.335 seconds
+[2024-08-22T16:56:36.223+0500] {processor.py:186} INFO - Started process (PID=6268) to work on /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T16:56:36.236+0500] {processor.py:914} INFO - Processing file /home/rayyan/airflow/dags/redfin_analytics.py for tasks to queue
+[2024-08-22T16:56:36.240+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:56:36.239+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T16:56:36.495+0500] {processor.py:925} INFO - DAG(s) 'redfin_analytics_dag' retrieved from /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T16:56:36.506+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:56:36.506+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:56:36.523+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:56:36.523+0500] {dag.py:4138} INFO - Setting next_dagrun for redfin_analytics_dag to 2024-08-22 00:00:00+00:00, run_after=2024-08-23 00:00:00+00:00
+[2024-08-22T16:56:36.553+0500] {processor.py:208} INFO - Processing /home/rayyan/airflow/dags/redfin_analytics.py took 0.336 seconds
+[2024-08-22T16:57:09.101+0500] {processor.py:186} INFO - Started process (PID=6428) to work on /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T16:57:09.103+0500] {processor.py:914} INFO - Processing file /home/rayyan/airflow/dags/redfin_analytics.py for tasks to queue
+[2024-08-22T16:57:09.105+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:57:09.105+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T16:57:09.372+0500] {processor.py:925} INFO - DAG(s) 'redfin_analytics_dag' retrieved from /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T16:57:09.382+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:57:09.382+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:57:09.402+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:57:09.401+0500] {dag.py:4138} INFO - Setting next_dagrun for redfin_analytics_dag to 2024-08-22 00:00:00+00:00, run_after=2024-08-23 00:00:00+00:00
+[2024-08-22T16:57:09.423+0500] {processor.py:208} INFO - Processing /home/rayyan/airflow/dags/redfin_analytics.py took 0.328 seconds
+[2024-08-22T16:57:40.636+0500] {processor.py:186} INFO - Started process (PID=6578) to work on /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T16:57:40.636+0500] {processor.py:914} INFO - Processing file /home/rayyan/airflow/dags/redfin_analytics.py for tasks to queue
+[2024-08-22T16:57:40.638+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:57:40.638+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T16:57:40.880+0500] {processor.py:925} INFO - DAG(s) 'redfin_analytics_dag' retrieved from /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T16:57:40.890+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:57:40.890+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:57:40.906+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:57:40.906+0500] {dag.py:4138} INFO - Setting next_dagrun for redfin_analytics_dag to 2024-08-22 00:00:00+00:00, run_after=2024-08-23 00:00:00+00:00
+[2024-08-22T16:57:40.936+0500] {processor.py:208} INFO - Processing /home/rayyan/airflow/dags/redfin_analytics.py took 0.307 seconds
+[2024-08-22T16:58:34.971+0500] {processor.py:186} INFO - Started process (PID=6834) to work on /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T16:58:34.974+0500] {processor.py:914} INFO - Processing file /home/rayyan/airflow/dags/redfin_analytics.py for tasks to queue
+[2024-08-22T16:58:34.976+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:58:34.976+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T16:58:35.363+0500] {processor.py:925} INFO - DAG(s) 'redfin_analytics_dag' retrieved from /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T16:58:35.379+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:58:35.379+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:58:35.398+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:58:35.397+0500] {dag.py:4138} INFO - Setting next_dagrun for redfin_analytics_dag to 2024-08-22 00:00:00+00:00, run_after=2024-08-23 00:00:00+00:00
+[2024-08-22T16:58:35.450+0500] {processor.py:208} INFO - Processing /home/rayyan/airflow/dags/redfin_analytics.py took 0.488 seconds
+[2024-08-22T16:59:47.559+0500] {processor.py:186} INFO - Started process (PID=7322) to work on /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T16:59:47.561+0500] {processor.py:914} INFO - Processing file /home/rayyan/airflow/dags/redfin_analytics.py for tasks to queue
+[2024-08-22T16:59:47.564+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:59:47.564+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T16:59:47.732+0500] {processor.py:925} INFO - DAG(s) 'redfin_analytics_dag' retrieved from /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T16:59:47.753+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:59:47.753+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:59:47.778+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:59:47.778+0500] {dag.py:4138} INFO - Setting next_dagrun for redfin_analytics_dag to 2024-08-22 00:00:00+00:00, run_after=2024-08-23 00:00:00+00:00
+[2024-08-22T16:59:47.804+0500] {processor.py:208} INFO - Processing /home/rayyan/airflow/dags/redfin_analytics.py took 0.253 seconds
+[2024-08-22T17:00:21.866+0500] {processor.py:186} INFO - Started process (PID=8547) to work on /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T17:00:21.872+0500] {processor.py:914} INFO - Processing file /home/rayyan/airflow/dags/redfin_analytics.py for tasks to queue
+[2024-08-22T17:00:21.879+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:00:21.878+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T17:00:22.232+0500] {processor.py:925} INFO - DAG(s) 'redfin_analytics_dag' retrieved from /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T17:00:22.264+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:00:22.263+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T17:00:22.312+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:00:22.311+0500] {dag.py:4138} INFO - Setting next_dagrun for redfin_analytics_dag to 2024-08-22 00:00:00+00:00, run_after=2024-08-23 00:00:00+00:00
+[2024-08-22T17:00:22.387+0500] {processor.py:208} INFO - Processing /home/rayyan/airflow/dags/redfin_analytics.py took 0.535 seconds
+[2024-08-22T17:00:55.275+0500] {processor.py:186} INFO - Started process (PID=9815) to work on /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T17:00:55.276+0500] {processor.py:914} INFO - Processing file /home/rayyan/airflow/dags/redfin_analytics.py for tasks to queue
+[2024-08-22T17:00:55.279+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:00:55.278+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T17:00:55.474+0500] {processor.py:925} INFO - DAG(s) 'redfin_analytics_dag' retrieved from /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T17:00:55.495+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:00:55.495+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T17:00:55.522+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:00:55.521+0500] {dag.py:4138} INFO - Setting next_dagrun for redfin_analytics_dag to 2024-08-22 00:00:00+00:00, run_after=2024-08-23 00:00:00+00:00
+[2024-08-22T17:00:55.562+0500] {processor.py:208} INFO - Processing /home/rayyan/airflow/dags/redfin_analytics.py took 0.294 seconds
+[2024-08-22T17:01:28.061+0500] {processor.py:186} INFO - Started process (PID=10989) to work on /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T17:01:28.063+0500] {processor.py:914} INFO - Processing file /home/rayyan/airflow/dags/redfin_analytics.py for tasks to queue
+[2024-08-22T17:01:28.066+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:01:28.066+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T17:01:28.266+0500] {processor.py:925} INFO - DAG(s) 'redfin_analytics_dag' retrieved from /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T17:01:28.298+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:01:28.297+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T17:01:28.332+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:01:28.331+0500] {dag.py:4138} INFO - Setting next_dagrun for redfin_analytics_dag to 2024-08-22 00:00:00+00:00, run_after=2024-08-23 00:00:00+00:00
+[2024-08-22T17:01:28.376+0500] {processor.py:208} INFO - Processing /home/rayyan/airflow/dags/redfin_analytics.py took 0.323 seconds
+[2024-08-22T17:02:04.337+0500] {processor.py:186} INFO - Started process (PID=12039) to work on /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T17:02:04.339+0500] {processor.py:914} INFO - Processing file /home/rayyan/airflow/dags/redfin_analytics.py for tasks to queue
+[2024-08-22T17:02:04.342+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:02:04.341+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T17:02:04.549+0500] {processor.py:925} INFO - DAG(s) 'redfin_analytics_dag' retrieved from /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T17:02:04.572+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:02:04.572+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T17:02:04.601+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:02:04.600+0500] {dag.py:4138} INFO - Setting next_dagrun for redfin_analytics_dag to 2024-08-22 00:00:00+00:00, run_after=2024-08-23 00:00:00+00:00
+[2024-08-22T17:02:04.679+0500] {processor.py:208} INFO - Processing /home/rayyan/airflow/dags/redfin_analytics.py took 0.351 seconds
+[2024-08-22T17:02:39.700+0500] {processor.py:186} INFO - Started process (PID=12852) to work on /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T17:02:39.712+0500] {processor.py:914} INFO - Processing file /home/rayyan/airflow/dags/redfin_analytics.py for tasks to queue
+[2024-08-22T17:02:39.715+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:02:39.715+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T17:02:39.935+0500] {processor.py:925} INFO - DAG(s) 'redfin_analytics_dag' retrieved from /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T17:02:39.958+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:02:39.958+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T17:02:40.029+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:02:40.028+0500] {dag.py:4138} INFO - Setting next_dagrun for redfin_analytics_dag to 2024-08-22 00:00:00+00:00, run_after=2024-08-23 00:00:00+00:00
+[2024-08-22T17:02:40.083+0500] {processor.py:208} INFO - Processing /home/rayyan/airflow/dags/redfin_analytics.py took 0.393 seconds
+[2024-08-22T17:03:10.434+0500] {processor.py:186} INFO - Started process (PID=13002) to work on /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T17:03:10.435+0500] {processor.py:914} INFO - Processing file /home/rayyan/airflow/dags/redfin_analytics.py for tasks to queue
+[2024-08-22T17:03:10.437+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:03:10.437+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T17:03:10.568+0500] {processor.py:925} INFO - DAG(s) 'redfin_analytics_dag' retrieved from /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T17:03:10.582+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:03:10.582+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T17:03:10.602+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:03:10.602+0500] {dag.py:4138} INFO - Setting next_dagrun for redfin_analytics_dag to 2024-08-22 00:00:00+00:00, run_after=2024-08-23 00:00:00+00:00
+[2024-08-22T17:03:10.622+0500] {processor.py:208} INFO - Processing /home/rayyan/airflow/dags/redfin_analytics.py took 0.195 seconds
+[2024-08-22T17:04:09.656+0500] {processor.py:186} INFO - Started process (PID=13287) to work on /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T17:04:09.658+0500] {processor.py:914} INFO - Processing file /home/rayyan/airflow/dags/redfin_analytics.py for tasks to queue
+[2024-08-22T17:04:09.660+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:04:09.660+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T17:04:09.789+0500] {processor.py:925} INFO - DAG(s) 'redfin_analytics_dag' retrieved from /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T17:04:09.805+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:04:09.805+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T17:04:09.825+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:04:09.825+0500] {dag.py:4138} INFO - Setting next_dagrun for redfin_analytics_dag to 2024-08-22 00:00:00+00:00, run_after=2024-08-23 00:00:00+00:00
+[2024-08-22T17:04:09.848+0500] {processor.py:208} INFO - Processing /home/rayyan/airflow/dags/redfin_analytics.py took 0.199 seconds
+[2024-08-22T17:05:04.407+0500] {processor.py:186} INFO - Started process (PID=13554) to work on /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T17:05:04.410+0500] {processor.py:914} INFO - Processing file /home/rayyan/airflow/dags/redfin_analytics.py for tasks to queue
+[2024-08-22T17:05:04.415+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:05:04.415+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T17:05:04.561+0500] {processor.py:925} INFO - DAG(s) 'redfin_analytics_dag' retrieved from /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T17:05:04.574+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:05:04.574+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T17:05:04.594+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:05:04.594+0500] {dag.py:4138} INFO - Setting next_dagrun for redfin_analytics_dag to 2024-08-22 00:00:00+00:00, run_after=2024-08-23 00:00:00+00:00
+[2024-08-22T17:05:04.616+0500] {processor.py:208} INFO - Processing /home/rayyan/airflow/dags/redfin_analytics.py took 0.225 seconds
+[2024-08-22T17:05:59.273+0500] {processor.py:186} INFO - Started process (PID=13822) to work on /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T17:05:59.285+0500] {processor.py:914} INFO - Processing file /home/rayyan/airflow/dags/redfin_analytics.py for tasks to queue
+[2024-08-22T17:05:59.288+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:05:59.288+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T17:05:59.419+0500] {processor.py:925} INFO - DAG(s) 'redfin_analytics_dag' retrieved from /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T17:05:59.433+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:05:59.433+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T17:05:59.454+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:05:59.454+0500] {dag.py:4138} INFO - Setting next_dagrun for redfin_analytics_dag to 2024-08-22 00:00:00+00:00, run_after=2024-08-23 00:00:00+00:00
+[2024-08-22T17:05:59.476+0500] {processor.py:208} INFO - Processing /home/rayyan/airflow/dags/redfin_analytics.py took 0.214 seconds
+[2024-08-22T17:06:59.203+0500] {processor.py:186} INFO - Started process (PID=14113) to work on /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T17:06:59.214+0500] {processor.py:914} INFO - Processing file /home/rayyan/airflow/dags/redfin_analytics.py for tasks to queue
+[2024-08-22T17:06:59.217+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:06:59.217+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T17:06:59.354+0500] {processor.py:925} INFO - DAG(s) 'redfin_analytics_dag' retrieved from /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T17:06:59.369+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:06:59.369+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T17:06:59.388+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:06:59.388+0500] {dag.py:4138} INFO - Setting next_dagrun for redfin_analytics_dag to 2024-08-22 00:00:00+00:00, run_after=2024-08-23 00:00:00+00:00
+[2024-08-22T17:06:59.411+0500] {processor.py:208} INFO - Processing /home/rayyan/airflow/dags/redfin_analytics.py took 0.216 seconds
+[2024-08-22T17:07:56.826+0500] {processor.py:186} INFO - Started process (PID=14400) to work on /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T17:07:56.828+0500] {processor.py:914} INFO - Processing file /home/rayyan/airflow/dags/redfin_analytics.py for tasks to queue
+[2024-08-22T17:07:56.830+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:07:56.830+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T17:07:57.002+0500] {processor.py:925} INFO - DAG(s) 'redfin_analytics_dag' retrieved from /home/rayyan/airflow/dags/redfin_analytics.py
+[2024-08-22T17:07:57.023+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:07:57.023+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T17:07:57.049+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:07:57.049+0500] {dag.py:4138} INFO - Setting next_dagrun for redfin_analytics_dag to 2024-08-22 00:00:00+00:00, run_after=2024-08-23 00:00:00+00:00
+[2024-08-22T17:07:57.088+0500] {processor.py:208} INFO - Processing /home/rayyan/airflow/dags/redfin_analytics.py took 0.270 seconds

@@ -1,0 +1,126 @@
+[2024-08-22T16:48:26.872+0500] {processor.py:186} INFO - Started process (PID=3902) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-08-22T16:48:26.873+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-08-22T16:48:26.875+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:48:26.875+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-08-22T16:48:26.889+0500] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-08-22T16:48:26.920+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:48:26.919+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:48:26.934+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:48:26.933+0500] {dag.py:4138} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-08-22T16:48:26.954+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.090 seconds
+[2024-08-22T16:49:26.299+0500] {processor.py:186} INFO - Started process (PID=4194) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-08-22T16:49:26.311+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-08-22T16:49:26.314+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:49:26.314+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-08-22T16:49:26.331+0500] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-08-22T16:49:26.358+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:49:26.358+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:49:26.368+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:49:26.368+0500] {dag.py:4138} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-08-22T16:49:26.388+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.097 seconds
+[2024-08-22T16:50:22.634+0500] {processor.py:186} INFO - Started process (PID=4469) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-08-22T16:50:22.646+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-08-22T16:50:22.648+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:50:22.648+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-08-22T16:50:22.662+0500] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-08-22T16:50:22.690+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:50:22.690+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:50:22.703+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:50:22.703+0500] {dag.py:4138} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-08-22T16:50:22.726+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.100 seconds
+[2024-08-22T16:51:20.207+0500] {processor.py:186} INFO - Started process (PID=4749) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-08-22T16:51:20.209+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-08-22T16:51:20.211+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:51:20.211+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-08-22T16:51:20.223+0500] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-08-22T16:51:20.262+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:51:20.262+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:51:20.279+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:51:20.278+0500] {dag.py:4138} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-08-22T16:51:20.303+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.101 seconds
+[2024-08-22T16:52:19.230+0500] {processor.py:186} INFO - Started process (PID=5032) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-08-22T16:52:19.233+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-08-22T16:52:19.239+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:52:19.238+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-08-22T16:52:19.261+0500] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-08-22T16:52:19.290+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:52:19.289+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:52:19.302+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:52:19.302+0500] {dag.py:4138} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-08-22T16:52:19.323+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.117 seconds
+[2024-08-22T16:53:22.443+0500] {processor.py:186} INFO - Started process (PID=5335) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-08-22T16:53:22.455+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-08-22T16:53:22.458+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:53:22.457+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-08-22T16:53:22.471+0500] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-08-22T16:53:22.499+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:53:22.499+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:53:22.511+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:53:22.510+0500] {dag.py:4138} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-08-22T16:53:22.532+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.095 seconds
+[2024-08-22T16:54:24.541+0500] {processor.py:186} INFO - Started process (PID=5634) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-08-22T16:54:24.553+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-08-22T16:54:24.556+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:54:24.555+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-08-22T16:54:24.571+0500] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-08-22T16:54:24.597+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:54:24.597+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:54:24.610+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:54:24.610+0500] {dag.py:4138} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-08-22T16:54:24.629+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.095 seconds
+[2024-08-22T16:55:25.492+0500] {processor.py:186} INFO - Started process (PID=5928) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-08-22T16:55:25.493+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-08-22T16:55:25.497+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:55:25.496+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-08-22T16:55:25.512+0500] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-08-22T16:55:25.543+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:55:25.543+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:55:25.557+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:55:25.557+0500] {dag.py:4138} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-08-22T16:55:25.581+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.096 seconds
+[2024-08-22T16:56:32.549+0500] {processor.py:186} INFO - Started process (PID=6251) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-08-22T16:56:32.561+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-08-22T16:56:32.564+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:56:32.564+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-08-22T16:56:32.579+0500] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-08-22T16:56:32.726+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:56:32.726+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:56:32.744+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:56:32.743+0500] {dag.py:4138} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-08-22T16:56:32.770+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.229 seconds
+[2024-08-22T16:57:37.725+0500] {processor.py:186} INFO - Started process (PID=6564) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-08-22T16:57:37.727+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-08-22T16:57:37.730+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:57:37.729+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-08-22T16:57:37.745+0500] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-08-22T16:57:37.885+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:57:37.885+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:57:37.897+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:57:37.897+0500] {dag.py:4138} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-08-22T16:57:37.921+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.204 seconds
+[2024-08-22T16:59:44.981+0500] {processor.py:186} INFO - Started process (PID=7227) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-08-22T16:59:44.983+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-08-22T16:59:44.985+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:59:44.985+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-08-22T16:59:45.003+0500] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-08-22T16:59:45.036+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:59:45.036+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:59:45.052+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:59:45.052+0500] {dag.py:4138} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-08-22T16:59:45.081+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.108 seconds
+[2024-08-22T17:00:52.658+0500] {processor.py:186} INFO - Started process (PID=9694) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-08-22T17:00:52.660+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-08-22T17:00:52.664+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:00:52.663+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-08-22T17:00:52.693+0500] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-08-22T17:00:52.744+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:00:52.743+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T17:00:52.775+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:00:52.775+0500] {dag.py:4138} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-08-22T17:00:52.811+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.164 seconds
+[2024-08-22T17:02:00.694+0500] {processor.py:186} INFO - Started process (PID=11809) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-08-22T17:02:00.709+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-08-22T17:02:00.714+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:02:00.713+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-08-22T17:02:00.779+0500] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-08-22T17:02:00.864+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:02:00.863+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T17:02:00.904+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:02:00.903+0500] {dag.py:4138} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-08-22T17:02:00.953+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.282 seconds
+[2024-08-22T17:03:08.301+0500] {processor.py:186} INFO - Started process (PID=12991) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-08-22T17:03:08.303+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-08-22T17:03:08.306+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:03:08.305+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-08-22T17:03:08.320+0500] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-08-22T17:03:08.346+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:03:08.346+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T17:03:08.358+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:03:08.358+0500] {dag.py:4138} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-08-22T17:03:08.378+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.085 seconds
+[2024-08-22T17:04:07.191+0500] {processor.py:186} INFO - Started process (PID=13276) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-08-22T17:04:07.192+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-08-22T17:04:07.195+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:04:07.195+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-08-22T17:04:07.208+0500] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-08-22T17:04:07.248+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:04:07.247+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T17:04:07.262+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:04:07.262+0500] {dag.py:4138} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-08-22T17:04:07.285+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.106 seconds
+[2024-08-22T17:05:04.086+0500] {processor.py:186} INFO - Started process (PID=13552) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-08-22T17:05:04.097+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-08-22T17:05:04.100+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:05:04.099+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-08-22T17:05:04.114+0500] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-08-22T17:05:04.143+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:05:04.143+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T17:05:04.155+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:05:04.155+0500] {dag.py:4138} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-08-22T17:05:04.178+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.099 seconds
+[2024-08-22T17:06:27.855+0500] {processor.py:186} INFO - Started process (PID=13961) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-08-22T17:06:27.868+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-08-22T17:06:27.870+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:06:27.870+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-08-22T17:06:27.889+0500] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-08-22T17:06:27.922+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:06:27.921+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T17:06:27.937+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:06:27.937+0500] {dag.py:4138} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-08-22T17:06:27.963+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.117 seconds
+[2024-08-22T17:07:27.875+0500] {processor.py:186} INFO - Started process (PID=14257) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-08-22T17:07:27.877+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-08-22T17:07:27.880+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:07:27.880+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-08-22T17:07:27.900+0500] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-08-22T17:07:27.937+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:07:27.936+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T17:07:27.959+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:07:27.958+0500] {dag.py:4138} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-08-22T17:07:27.988+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.121 seconds

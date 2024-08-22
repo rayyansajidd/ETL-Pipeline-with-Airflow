@@ -1,0 +1,133 @@
+[2024-08-22T16:48:08.549+0500] {processor.py:186} INFO - Started process (PID=3791) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-08-22T16:48:08.550+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2024-08-22T16:48:08.552+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:48:08.552+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-08-22T16:48:08.559+0500] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-08-22T16:48:08.575+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:48:08.575+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:48:08.588+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:48:08.587+0500] {dag.py:4138} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2024-08-22T16:48:08.621+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.079 seconds
+[2024-08-22T16:49:06.971+0500] {processor.py:186} INFO - Started process (PID=4100) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-08-22T16:49:06.972+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2024-08-22T16:49:06.976+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:49:06.975+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-08-22T16:49:06.983+0500] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-08-22T16:49:07.000+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:49:07.000+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:49:07.015+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:49:07.015+0500] {dag.py:4138} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2024-08-22T16:49:07.053+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.088 seconds
+[2024-08-22T16:50:05.262+0500] {processor.py:186} INFO - Started process (PID=4385) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-08-22T16:50:05.264+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2024-08-22T16:50:05.266+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:50:05.266+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-08-22T16:50:05.277+0500] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-08-22T16:50:05.296+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:50:05.296+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:50:05.311+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:50:05.311+0500] {dag.py:4138} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2024-08-22T16:50:05.332+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.079 seconds
+[2024-08-22T16:51:02.442+0500] {processor.py:186} INFO - Started process (PID=4662) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-08-22T16:51:02.444+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2024-08-22T16:51:02.446+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:51:02.446+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-08-22T16:51:02.453+0500] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-08-22T16:51:02.468+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:51:02.468+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:51:02.481+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:51:02.481+0500] {dag.py:4138} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2024-08-22T16:51:02.501+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.066 seconds
+[2024-08-22T16:52:02.841+0500] {processor.py:186} INFO - Started process (PID=4950) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-08-22T16:52:02.854+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2024-08-22T16:52:02.858+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:52:02.857+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-08-22T16:52:02.867+0500] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-08-22T16:52:02.883+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:52:02.883+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:52:02.895+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:52:02.895+0500] {dag.py:4138} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2024-08-22T16:52:02.918+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.087 seconds
+[2024-08-22T16:53:04.853+0500] {processor.py:186} INFO - Started process (PID=5249) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-08-22T16:53:04.865+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2024-08-22T16:53:04.868+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:53:04.868+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-08-22T16:53:04.876+0500] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-08-22T16:53:04.892+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:53:04.892+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:53:04.906+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:53:04.905+0500] {dag.py:4138} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2024-08-22T16:53:05.039+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.194 seconds
+[2024-08-22T16:54:05.982+0500] {processor.py:186} INFO - Started process (PID=5544) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-08-22T16:54:05.983+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2024-08-22T16:54:05.985+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:54:05.985+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-08-22T16:54:05.994+0500] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-08-22T16:54:06.013+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:54:06.013+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:54:06.029+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:54:06.028+0500] {dag.py:4138} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2024-08-22T16:54:06.183+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.210 seconds
+[2024-08-22T16:55:04.544+0500] {processor.py:186} INFO - Started process (PID=5829) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-08-22T16:55:04.546+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2024-08-22T16:55:04.550+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:55:04.549+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-08-22T16:55:04.559+0500] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-08-22T16:55:04.576+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:55:04.576+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:55:04.592+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:55:04.592+0500] {dag.py:4138} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2024-08-22T16:55:04.744+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.207 seconds
+[2024-08-22T16:56:10.309+0500] {processor.py:186} INFO - Started process (PID=6146) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-08-22T16:56:10.320+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2024-08-22T16:56:10.322+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:56:10.322+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-08-22T16:56:10.331+0500] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-08-22T16:56:10.348+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:56:10.347+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:56:10.362+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:56:10.361+0500] {dag.py:4138} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2024-08-22T16:56:10.506+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.204 seconds
+[2024-08-22T16:57:15.398+0500] {processor.py:186} INFO - Started process (PID=6459) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-08-22T16:57:15.410+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2024-08-22T16:57:15.413+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:57:15.413+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-08-22T16:57:15.421+0500] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-08-22T16:57:15.437+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:57:15.437+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:57:15.450+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:57:15.450+0500] {dag.py:4138} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2024-08-22T16:57:15.584+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.193 seconds
+[2024-08-22T16:59:21.857+0500] {processor.py:186} INFO - Started process (PID=7116) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-08-22T16:59:21.868+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2024-08-22T16:59:21.871+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:59:21.871+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-08-22T16:59:21.879+0500] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-08-22T16:59:22.010+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:59:22.010+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T16:59:22.023+0500] {logging_mixin.py:190} INFO - [2024-08-22T16:59:22.023+0500] {dag.py:4138} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2024-08-22T16:59:22.047+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.196 seconds
+[2024-08-22T17:00:32.360+0500] {processor.py:186} INFO - Started process (PID=8898) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-08-22T17:00:32.362+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2024-08-22T17:00:32.366+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:00:32.365+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-08-22T17:00:32.389+0500] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-08-22T17:00:32.433+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:00:32.433+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T17:00:32.477+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:00:32.477+0500] {dag.py:4138} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2024-08-22T17:00:32.521+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.174 seconds
+[2024-08-22T17:01:38.500+0500] {processor.py:186} INFO - Started process (PID=11260) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-08-22T17:01:38.503+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2024-08-22T17:01:38.509+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:01:38.508+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-08-22T17:01:38.524+0500] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-08-22T17:01:38.567+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:01:38.566+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T17:01:38.612+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:01:38.611+0500] {dag.py:4138} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2024-08-22T17:01:38.664+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.182 seconds
+[2024-08-22T17:02:49.164+0500] {processor.py:186} INFO - Started process (PID=12897) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-08-22T17:02:49.175+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2024-08-22T17:02:49.178+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:02:49.178+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-08-22T17:02:49.191+0500] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-08-22T17:02:49.216+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:02:49.216+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T17:02:49.246+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:02:49.246+0500] {dag.py:4138} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2024-08-22T17:02:49.277+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.127 seconds
+[2024-08-22T17:03:46.643+0500] {processor.py:186} INFO - Started process (PID=13177) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-08-22T17:03:46.645+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2024-08-22T17:03:46.649+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:03:46.648+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-08-22T17:03:46.658+0500] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-08-22T17:03:46.675+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:03:46.675+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T17:03:46.687+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:03:46.687+0500] {dag.py:4138} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2024-08-22T17:03:46.709+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.079 seconds
+[2024-08-22T17:04:45.320+0500] {processor.py:186} INFO - Started process (PID=13462) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-08-22T17:04:45.323+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2024-08-22T17:04:45.326+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:04:45.326+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-08-22T17:04:45.334+0500] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-08-22T17:04:45.350+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:04:45.350+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T17:04:45.365+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:04:45.365+0500] {dag.py:4138} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2024-08-22T17:04:45.388+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.076 seconds
+[2024-08-22T17:05:39.836+0500] {processor.py:186} INFO - Started process (PID=13728) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-08-22T17:05:39.848+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2024-08-22T17:05:39.851+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:05:39.851+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-08-22T17:05:39.861+0500] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-08-22T17:05:39.877+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:05:39.877+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T17:05:39.892+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:05:39.891+0500] {dag.py:4138} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2024-08-22T17:05:39.913+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.084 seconds
+[2024-08-22T17:06:38.284+0500] {processor.py:186} INFO - Started process (PID=14012) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-08-22T17:06:38.296+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2024-08-22T17:06:38.299+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:06:38.298+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-08-22T17:06:38.307+0500] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-08-22T17:06:38.324+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:06:38.324+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T17:06:38.338+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:06:38.337+0500] {dag.py:4138} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2024-08-22T17:06:38.359+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.085 seconds
+[2024-08-22T17:07:36.686+0500] {processor.py:186} INFO - Started process (PID=14301) to work on /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-08-22T17:07:36.688+0500] {processor.py:914} INFO - Processing file /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2024-08-22T17:07:36.690+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:07:36.690+0500] {dagbag.py:587} INFO - Filling up the DagBag from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-08-22T17:07:36.698+0500] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-08-22T17:07:36.716+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:07:36.716+0500] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-22T17:07:36.731+0500] {logging_mixin.py:190} INFO - [2024-08-22T17:07:36.731+0500] {dag.py:4138} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2024-08-22T17:07:36.778+0500] {processor.py:208} INFO - Processing /home/rayyan/redfin_venv/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.098 seconds
